@@ -1,0 +1,13 @@
+# SECRET SECRETS
+.env
+*.pem
+
+# VIRTUAL ENVIROMENTs
+.venv/
+
+# PYTHON CACHE
+.pyc
+__pycache__/
+
+# RUFF CACHE
+.ruff_cache/
